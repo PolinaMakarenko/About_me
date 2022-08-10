@@ -2,7 +2,6 @@
 <h3 align="center">Full Stack JavaScript Developer.</h3>
 
 - 🌱 I’m currently learning 
-<br/>
 ▪ Next.js;
 <br/>
 ▪ Vue.js; 
@@ -13,7 +12,7 @@
 <br/>
 - 📫 How to reach me: 
 <br/>
-email:**pollinamakarenko@gmail.com**
+email: **pollinamakarenko@gmail.com**
 <br/>
 telegram:**https://t.me/pollina_mak**
 
