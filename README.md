@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Polina!</h1>
 <h3 align="center">Full Stack JavaScript Developer.</h3>
 
-- 🌱 I’m currently learning **▪ Next.js; ▪ Vue.js; ▪ GraphQL; ▪ TypeScript.**
+- 🌱 I’m currently learning 
+- ▪ Next.js;
+-  ▪ Vue.js; 
+-  ▪ GraphQL; 
+-  ▪ TypeScript.
 
 - 📫 How to reach me: 
+- 
 email:**pollinamakarenko@gmail.com**
 telegram:**https://t.me/pollina_mak**
 
