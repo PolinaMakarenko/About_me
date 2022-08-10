@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **▪ Next.js; ▪ Vue.js; ▪ GraphQL; ▪ TypeScript.**
 
-- 📫 How to reach me **pollinamakarenko@gmail.com**
+- 📫 How to reach me: 
+email:**pollinamakarenko@gmail.com**
+telegram:**https://t.me/pollina_mak**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
