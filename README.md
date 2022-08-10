@@ -2,13 +2,12 @@
 <h3 align="center">Full Stack JavaScript Developer.</h3>
 
 - 🌱 I’m currently learning 
-- ▪ Next.js;
--  ▪ Vue.js; 
--  ▪ GraphQL; 
--  ▪ TypeScript.
+▪ Next.js;
+▪ Vue.js; 
+▪ GraphQL; 
+▪ TypeScript.
 
 - 📫 How to reach me: 
-- 
 email:**pollinamakarenko@gmail.com**
 telegram:**https://t.me/pollina_mak**
 
